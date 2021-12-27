@@ -1,0 +1,17 @@
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\Bunifu_UI_v1.52.dll
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\Newtonsoft.Json.dll
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\Newtonsoft.Json.xml
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.About.resources
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.Form1.resources
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.Login.resources
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.main.resources
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.Properties.Resources.resources
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.signin.resources
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.signup.resources
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.welcome.resources
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.csproj.GenerateResource.Cache
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.exe
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.pdb
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\OIT_cv_parsing.exe.config
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\OIT_cv_parsing.exe
+E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\OIT_cv_parsing.pdb
