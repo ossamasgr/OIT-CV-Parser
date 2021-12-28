@@ -15,3 +15,22 @@ E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_p
 E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\OIT_cv_parsing.exe.config
 E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\OIT_cv_parsing.exe
 E:\serious projects\Store\Store\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\OIT_cv_parsing.pdb
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\OIT_cv_parsing.exe.config
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\OIT_cv_parsing.exe
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\OIT_cv_parsing.pdb
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.About.resources
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.Form1.resources
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.Login.resources
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.main.resources
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.Properties.Resources.resources
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.signin.resources
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.signup.resources
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.welcome.resources
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.csproj.CopyComplete
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.exe
+C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.pdb

@@ -59,6 +59,7 @@
       <DependentUpon>About.cs</DependentUpon>
     </Compile>
     <Compile Include="ADO.cs" />
+    <Compile Include="Cryptography.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

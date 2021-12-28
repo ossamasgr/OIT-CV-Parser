@@ -103,5 +103,15 @@ namespace OIT_cv_parsing
             panel1.Controls.Add(s);
             s.Dock = DockStyle.Fill;
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
