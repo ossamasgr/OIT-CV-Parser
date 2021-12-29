@@ -92,7 +92,7 @@
             this.bunifuMaterialTextbox2.Name = "bunifuMaterialTextbox2";
             this.bunifuMaterialTextbox2.Size = new System.Drawing.Size(258, 44);
             this.bunifuMaterialTextbox2.TabIndex = 8;
-            this.bunifuMaterialTextbox2.Text = "Password";
+            this.bunifuMaterialTextbox2.Text = "test";
             this.bunifuMaterialTextbox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.bunifuMaterialTextbox2.OnValueChanged += new System.EventHandler(this.bunifuMaterialTextbox2_OnValueChanged);
             // 
@@ -113,7 +113,7 @@
             this.bunifuMaterialTextbox1.Name = "bunifuMaterialTextbox1";
             this.bunifuMaterialTextbox1.Size = new System.Drawing.Size(258, 44);
             this.bunifuMaterialTextbox1.TabIndex = 7;
-            this.bunifuMaterialTextbox1.Text = "Username";
+            this.bunifuMaterialTextbox1.Text = "develyakoub";
             this.bunifuMaterialTextbox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.bunifuMaterialTextbox1.OnValueChanged += new System.EventHandler(this.bunifuMaterialTextbox1_OnValueChanged);
             // 
@@ -129,6 +129,7 @@
             this.Controls.Add(this.bunifuMaterialTextbox1);
             this.Name = "signin";
             this.Size = new System.Drawing.Size(307, 431);
+            this.Load += new System.EventHandler(this.signin_Load);
             ((System.ComponentModel.ISupportInitialize)(this.bunifuImageButton1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -141,6 +142,6 @@
         private Bunifu.Framework.UI.BunifuImageButton bunifuImageButton1;
         private System.Windows.Forms.CheckBox checkBox1;
         private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox2;
-        private Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox1;
+        public Bunifu.Framework.UI.BunifuMaterialTextbox bunifuMaterialTextbox1;
     }
 }

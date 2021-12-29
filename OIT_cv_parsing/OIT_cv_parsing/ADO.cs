@@ -22,7 +22,7 @@ namespace OIT_cv_parsing
             if (cnx.State == ConnectionState.Closed || cnx.State == ConnectionState.Broken)
             {
                 // cnx.ConnectionString = "Data Source=LENOVOPC;Initial Catalog=TDI;Integrated Security=True";
-                cnx.ConnectionString = @"Data Source=logocto.database.windows.net;Initial Catalog=Log;User ID=TestAPIDev;Password=%NzTQ-4g";
+                cnx.ConnectionString = @"Data Source=.;Initial Catalog=login;Integrated Security=True";
                 cnx.Open();
             }
         }

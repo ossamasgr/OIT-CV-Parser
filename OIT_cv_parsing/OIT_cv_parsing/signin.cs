@@ -9,11 +9,16 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data;
 using System.Data.SqlClient;
+using System.Net;
+using System.Net.Mail;
+
+
 namespace OIT_cv_parsing
 {
     public partial class signin : UserControl
     {
         ADO d = new ADO();
+        public static string TextBoxValue;
         public signin()
         {
             InitializeComponent();
@@ -35,19 +40,25 @@ namespace OIT_cv_parsing
             // log in code 
             // checking the database for password:
             d.cmd = new SqlCommand("select count (*) from login where UserName = '" + bunifuMaterialTextbox1.Text+ "' and password = '" + bunifuMaterialTextbox2.Text + "'", d.cnx);
-            d.CONNECTER();
+            
             int i = (int)d.cmd.ExecuteScalar();
             if (i == 1)
             {
+                TextBoxValue = bunifuMaterialTextbox1.Text;
                 Form1 m = new Form1();
                 m.Show();
                 this.Hide();
+
+
+              
             }
+
+
             else if (i == 0)
             {
                 MessageBox.Show("information incorrect");
             }
-            d.DECONNECTER();
+            
 
         }
 
@@ -58,12 +69,17 @@ namespace OIT_cv_parsing
 
         private void bunifuMaterialTextbox2_OnValueChanged(object sender, EventArgs e)
         {
-
+            
         }
 
         private void bunifuMaterialTextbox1_OnValueChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void signin_Load(object sender, EventArgs e)
+        {
+            d.CONNECTER();
         }
     }
 }
