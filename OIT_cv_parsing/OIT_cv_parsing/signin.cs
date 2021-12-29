@@ -39,6 +39,7 @@ namespace OIT_cv_parsing
         {
             // log in code 
             // checking the database for password:
+<<<<<<< HEAD
             d.cmd = new SqlCommand("select count (*) from login where UserName = '" + bunifuMaterialTextbox1.Text+ "' and password = '" + bunifuMaterialTextbox2.Text + "'", d.cnx);
             
             int i = (int)d.cmd.ExecuteScalar();
@@ -59,8 +60,57 @@ namespace OIT_cv_parsing
                 MessageBox.Show("information incorrect");
             }
             
+=======
+            /* d.cmd = new SqlCommand("select count (*) from login where Username = '" + bunifuMaterialTextbox1.Text+ "' and Password = '" + bunifuMaterialTextbox2.Text + "'", d.cnx);
+             d.CONNECTER();
+             int i = (int)d.cmd.ExecuteScalar();
+             if (i == 1)
+             {
+                 Form1 m = new Form1();
+                 m.Show();
+                 this.Hide();
+             }
+             else if (i == 0)
+             {
+                 MessageBox.Show("information incorrect");
+             }
+             d.DECONNECTER();*/
+
+            string Password = "";
+            bool IsExist = false;
+            d.CONNECTER();
+            d.cmd = new SqlCommand("select * from login where Username='" + bunifuMaterialTextbox1.Text + "'", d.cnx);
+            d.dr = d.cmd.ExecuteReader();
+            if (d.dr.Read())
+            {
+                Password = d.dr.GetString(4);
+                IsExist = true;
+            }
+            d.DECONNECTER();
+            {
+                if (Cryptography.Decrypt(Password).Equals(bunifuMaterialTextbox2.Text))
+                {
+                    MessageBox.Show("Login Success", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    Form1 m = new Form1();
+                    m.Show();
+                    this.Hide();
+                }
+                else
+                {
+                    MessageBox.Show("Password is wrong!...", "error", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+
+            }
+           /* else
+            {
+                MessageBox.Show("Please enter the valid credentials", "error", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }*/
+>>>>>>> bba56c88950a3b1d1500a21cdc59ac6784af01b9
 
         }
+
+
+
 
         private void label1_Click(object sender, EventArgs e)
         {

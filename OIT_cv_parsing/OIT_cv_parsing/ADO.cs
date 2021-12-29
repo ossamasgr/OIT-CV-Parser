@@ -22,7 +22,11 @@ namespace OIT_cv_parsing
             if (cnx.State == ConnectionState.Closed || cnx.State == ConnectionState.Broken)
             {
                 // cnx.ConnectionString = "Data Source=LENOVOPC;Initial Catalog=TDI;Integrated Security=True";
+<<<<<<< HEAD
                 cnx.ConnectionString = @"Data Source=.;Initial Catalog=login;Integrated Security=True";
+=======
+                cnx.ConnectionString = @"Data Source=DESKTOP-4ALIMHA\SQLEXPRESS;Initial Catalog=parsing;Integrated Security=True";
+>>>>>>> bba56c88950a3b1d1500a21cdc59ac6784af01b9
                 cnx.Open();
             }
         }

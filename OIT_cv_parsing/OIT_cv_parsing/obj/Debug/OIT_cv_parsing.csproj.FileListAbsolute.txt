@@ -34,6 +34,7 @@ C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv
 C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.csproj.CopyComplete
 C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.exe
 C:\Users\HP\Desktop\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.pdb
+<<<<<<< HEAD
 E:\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\OIT_cv_parsing.exe.config
 E:\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\OIT_cv_parsing.exe
 E:\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\bin\Debug\OIT_cv_parsing.pdb
@@ -72,3 +73,5 @@ C:\Users\moham\OneDrive\Bureau\New folder (2)\OIT-CV-Parser\OIT_cv_parsing\OIT_c
 C:\Users\moham\OneDrive\Bureau\New folder (2)\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.csproj.CopyComplete
 C:\Users\moham\OneDrive\Bureau\New folder (2)\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.exe
 C:\Users\moham\OneDrive\Bureau\New folder (2)\OIT-CV-Parser\OIT_cv_parsing\OIT_cv_parsing\obj\Debug\OIT_cv_parsing.pdb
+=======
+>>>>>>> bba56c88950a3b1d1500a21cdc59ac6784af01b9
